@@ -13,4 +13,3 @@ jobs:
 
       - name: Use API Key
         run: echo "Calling API with key: ${{ secrets.MY_API_KEY }}"
-
